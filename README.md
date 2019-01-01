@@ -20,14 +20,16 @@ then any user or patient can search along all donors who are registered and get 
 Have admin panel and deleting/editing record features.
 
 
-#included: 
+#included:
+
            * source code (DonorManager.cpp)
            * executable windows program (DonorManager.exe)
           
           
           
 #features: 
-           1. Admin Panel       > * view database
+          
+          1. Admin Panel       > * view database
                                   * edit database record
                                   * delete database record
                                   * change admin password
