@@ -1,6 +1,5 @@
 # Organ-Donor-Managing-Tool
 
-
                                 .':odxkkkxdl:'
                              ,d0NMMMMMMMMMMWNOl'"
                            ,x0KNWWWWWNNNWWWWMNKOo."
@@ -14,9 +13,6 @@
                          .,:,;:.           ':,;:,"
                           .;::,.         .,::,."
                              .',.        .;,..  
-
-
-
 
 Organ Donor Manager Tool written in c++ for school project. 
 Though this, one can register as a blood/eye/kidney donor with specific provided informations.
