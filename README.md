@@ -15,7 +15,7 @@
                              .',.        .;,..  
 
 Organ Donor Manager Tool written in c++ for school project. 
-Though this, one can register as a blood/eye/kidney donor with specific provided informations.
+Through this, one can register as a blood/eye/kidney donor with specific provided informations.
 then any user or patient can search along all donors who are registered and get the infos to contact with them.
 Have admin panel and deleting/editing record features.
 
